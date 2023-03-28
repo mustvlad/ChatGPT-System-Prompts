@@ -1,14 +1,14 @@
 # ChatGPT System Prompts
 
-Welcome to the ChatGPT System Prompts repository! Here you can find a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. These prompts are designed to help users interact with ChatGPT in a more efficient and effective way, and to improve the overall user experience.
+Welcome to the ChatGPT System Prompts repository! Here you can find a collection of system prompts for ChatGPT, a conversational AI model developed by OpenAI. These prompts are designed to help developers steer the AI's behavior and customize the user experience within bounds.
 
 ## What are System Prompts?
 
-System prompts are pre-defined messages that are sent by a chatbot or conversational AI system to initiate or guide a conversation. They are typically used to provide context, set expectations, or prompt the user to take a specific action.
+System prompts are pre-defined messages that developers can use to steer the AI's behavior and task, rather than prompts for the user to interact with. They allow developers to customize the AI's style and task by describing those directions in the "system" message.
 
 ## How to Use These Prompts
 
-To use these prompts, simply copy and paste the text into your ChatGPT implementation. You can also modify the prompts to better suit your needs, or create your own prompts based on these examples.
+To use these prompts, include the appropriate JSON object in your message to the AI. Each system prompt file in the `system-prompts/` directory contains the name of the prompt, a description of what the prompt does and how it affects the AI's behavior, and an example usage of the prompt in code or text form.
 
 ## Contributing to this Repository
 
@@ -16,9 +16,11 @@ If you have a great system prompt that you would like to contribute to this repo
 
 ## Repository Structure
 
-- `prompts/` - a directory containing all the system prompts, organized by category
+- `system-prompts/` - a directory containing examples of system prompts and their descriptions, organized by category
 - `LICENSE` - the license for this repository
 - `CONTRIBUTING.md` - guidelines for contributing to this repository
 - `README.md` - the main readme file for this repository
 
-We hope you find these system prompts useful and that they help improve your interactions with ChatGPT. If you have any questions or feedback, please don't hesitate to reach out to us.
+We hope you find these system prompts useful and that they help you customize your ChatGPT implementation to your specific needs. If you have any questions or feedback, please don't hesitate to reach out to us.
+
+Let's get started working on this repository and making ChatGPT even more useful and customizable!
