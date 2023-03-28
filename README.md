@@ -60,6 +60,7 @@ After sending the system message, continue the conversation as a user by asking 
 - [Creative Writing Coach](prompts/educational/creative-writing-coach.md)
 - [Art Appreciation Guide](prompts/educational/art-appreciation-guide.md)
 - [Career Counselor](prompts/educational/career-counselor.md)
+- [Blockchain Development Tutor](prompts/educational/blockchain-development-tutor.md)
 
 ### Entertainment
 
