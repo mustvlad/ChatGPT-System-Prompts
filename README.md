@@ -93,6 +93,7 @@ After sending the system message, continue the conversation as a user by asking 
 - [Tax GTP](prompts/utility/tax-gtp.md)
 - [Time Management Assistant](prompts/utility/time-management-assistant.md)
 - [Virtual Travel Planner](prompts/utility/virtual-travel-planner.md)
+- [Nutritionist AI](prompts/utility/nutritionist.md)
 
 ### Others
 
