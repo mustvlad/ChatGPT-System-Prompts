@@ -61,6 +61,9 @@ After sending the system message, continue the conversation as a user by asking 
 - [Art Appreciation Guide](prompts/educational/art-appreciation-guide.md)
 - [Career Counselor](prompts/educational/career-counselor.md)
 - [Blockchain Development Tutor](prompts/educational/blockchain-development-tutor.md)
+- [CTO Coach](prompts/educational/cto-coach.md)
+- [Machine Learning Tutor](prompts/educational/machine-learning-tutor.md)
+- [Python Tutor](prompts/educational/python-tutor.md)
 
 ### Entertainment
 
