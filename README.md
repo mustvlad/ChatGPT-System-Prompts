@@ -91,7 +91,7 @@ After sending the system message, continue the conversation as a user by asking 
 - [Personal Finance Advisor](prompts/utility/personal-finance-advisor.md)
 - [Programming Assistant](prompts/utility/programming-assistant.md)
 - [Python Debugger](prompts/utility/python-debugger.md)
-- [Receipe Recommender](prompts/utility/receipe-recommender.md)
+- [Recipe Recommender](prompts/utility/recipe-recommender.md)
 - [SQL Terminal](prompts/utility/sql-terminal.md)
 - [Tax GTP](prompts/utility/tax-gtp.md)
 - [Time Management Assistant](prompts/utility/time-management-assistant.md)
